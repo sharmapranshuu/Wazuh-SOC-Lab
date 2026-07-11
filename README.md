@@ -32,7 +32,15 @@ The Lab includes the following components:
 
 # Wazuh Agent and Endpoint Setup
 
+[Wazuh endpoint setup PDF Guide](docs/endpoint-setup.pdf)
 
+# Results
+
+![Wazuh Home Screen](./wazuh-home.png)
+*Figure 2: Wazuh Home Screen.*
+
+![Enpoint](./wazuh-endpoint.png)
+*Figure 3: Wazuh Endpoint Screen*
 
 # Conclusion
 This SOC home lab project successfully demonstrated how open-source tools can be combined to build a functional security monitoring and detection environment. By integrating **Wazuh** as the central SIEM, **UFW** as the firewall, **Suricata** as the IDS/IPS, and **Sysmon** for endpoint visibility, the lab replicated key components of a modern SOC. The addition of **VirusTotal** enrichment and **File Integrity Monitoring** further enhanced detection capabilities and contextual analysis.
