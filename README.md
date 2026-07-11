@@ -22,4 +22,11 @@ The Lab includes the following components:
 
 # Wazuh Setup
 
-[Wazuh Server and Agent Setup](./wazuh-setup.pdf)
+[Wazuh Server & Agent setup PDF Guide](docs/wazuh-setup.pdf)
+
+
+**Summary:**
+- Deploy Wazuh in a docker container environment.
+- Configure and troubleshoot Wazuh services, then access the Dashboard for monitoring.
+- Install and register endpoint agents to collect logs and centralize security visibility.
+
