@@ -36,10 +36,10 @@ The Lab includes the following components:
 
 # Results
 
-![Wazuh Home Screen](./wazuh-home.png)
+![Wazuh Home Screen](docs/wazuh-home.png)
 *Figure 2: Wazuh Home Screen.*
 
-![Enpoint](./wazuh-endpoint.png)
+![Enpoint](docs/wazuh-endpoint.png)
 *Figure 3: Wazuh Endpoint Screen*
 
 # Conclusion
