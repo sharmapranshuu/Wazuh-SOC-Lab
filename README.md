@@ -15,3 +15,6 @@ The Lab includes the following components:
 | **Endpoint (Macbook Air)** | Runs the Wazuh Agent for system monitoring and log forwarding. |
 | **UFW Firewall** | Provides firewall logs. Integrated into Wazuh for anomaly detection. |
 | **Suricata IDS/IPS** | Monitors network traffic, Sends IDS alerts to Wazuh. |
+
+![Lab Architecture](./Lab-Architecture.png)
+*Figure 1: SOC Lab Architecture.*
